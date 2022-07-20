@@ -10,3 +10,6 @@ La start-up *Academy*, qui propose des contenus de formation en ligne pour un pu
 
 ### Exécution du code
 Pour lancer ce projet, il suffit de lancer le notebook après avoir téléchargé les [données](https://datacatalog.worldbank.org/search/dataset/0038480).
+
+### Résumé du projet
+[Projet 2 LinkedIn.pdf](https://github.com/charlottemllt/Analyse-des-donnees-de-systemes-educatifs/files/9150413/Projet.2.LinkedIn.pdf)
