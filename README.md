@@ -1,6 +1,6 @@
 # Analyse des données de systèmes éducatifs
 
-Ce projet a été réalisé lors de ma formation [OpenClassrooms](https://openclassrooms.com/fr/) de Data Scientist. Il s'appuie sur les [données de la Banque Mondiale](https://datacatalog.worldbank.org/search/dataset/0038480).
+Ce travail a été réalisé lors du projet 2 de ma formation [OpenClassrooms](https://openclassrooms.com/fr/) de Data Scientist durant le mois de Décembre 2021. Il s'appuie sur les [données de la Banque Mondiale](https://datacatalog.worldbank.org/search/dataset/0038480).
 
 ### Mission
 La start-up *Academy*, qui propose des contenus de formation en ligne pour un public de niveau lycée et université, souhaite s'étendre à l'international. Le but du projet est de réaliser une analyse exploratoire afin d'informer le projet d'expansion et de répondre aux questions suivantes :
