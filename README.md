@@ -8,5 +8,12 @@ La start-up *Academy*, qui propose des contenus de formation en ligne pour un pu
 - Pour chacun de ces pays, quelle sera l’évolution de ce potentiel de clients ?
 - Dans quels pays l'entreprise doit-elle opérer en priorité ?
 
+### Compétences acquises
+- Maîtriser les opérations fondamentales du langage Python pour la Data Science
+- Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
+- Manipuler des données avec des librairies Python spécialisées
+- Mettre en place un environnement Python
+- Effectuer une représentation graphique à l'aide d'une librairie Python adaptée
+
 ### Exécution du code
 Pour lancer ce projet, il suffit de lancer le notebook après avoir téléchargé les [données](https://datacatalog.worldbank.org/search/dataset/0038480).
